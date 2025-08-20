@@ -14,7 +14,7 @@ Then navigate to http://localhost:8080/payload.htm
 
 ## Compile
 
-To build the `.wat` yourself, use a recent version of binaryen, and run:
+To build the `.wasm` yourself, use a recent version of binaryen, and run:
 
 ```sh
 wasm-as -all payload.wat
